@@ -1,0 +1,316 @@
+﻿* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Lato-Black';
+    src: url('Lato/Lato-Black.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Pacifico-Regular';
+    src: url('font/Pacifico-Regular.ttf') format('truetype');
+}
+@media screen and (max-width:991px){
+    .nav-link{
+        padding:16px 24px;
+        border-top:1px solid #e5e5e5;
+    }
+}
+.navbar-toggler:focus {
+    text-decoration: none;
+    outline: 0;
+    box-shadow: none !important;
+}
+
+    .hd {
+    font-family: Pacifico-Regular,sans-serif;
+}
+
+@font-face {
+    font-family: 'LibreFranklin-VariableFont_wght';
+    src: url('font/LibreFranklin-VariableFont_wght.ttf') format('truetype');
+}
+
+.pr {
+    font-family: LibreFranklin-VariableFont_wght,sans-serif;
+}
+
+.uh {
+    color: #6c6c6c;
+    font-size: 12px;
+    line-height: 22px;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+@font-face {
+    font-family: 'Poppins-Regular';
+    src: url('font/Poppins-Regular.ttf') format('truetype');
+}
+
+.t {
+    font-family: Poppins-Regular,sans-serif;
+}
+
+.g {
+    height: 750px;
+    background-image: linear-gradient( 180deg, hsla(0, 0%, 100%, 0.3), hsla(0, 0%, 100%, 0.3)), url('image/5bc26c68ca643a35ff2e403f_scott-webb-268893-unsplash.jpg');
+    background-position: 0px;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    padding-top: 150px;
+}
+
+
+.q :hover {
+    background-color: #ac1313 !important;
+}
+
+
+    .s {
+        background-color: #ac1313;
+        font-size: 12px;
+        border-radius: 0px;
+        width: 200px;
+        padding: 20px 40px;
+        font-weight: 400;
+    }
+ 
+
+    .c {
+        color: #d77474;
+        letter-spacing: 2px;
+        font-size: 14px;
+    }
+
+    @font-face {
+        font-family: 'PlayfairDisplay-Italic-VariableFont_wght';
+        src: url('static/PlayfairDisplay-Italic-VariableFont_wght.ttf') format('truetype');
+    }
+
+    .p {
+        font-family: 'PlayfairDisplay-Italic-VariableFont_wght',sans-serif;
+    }
+
+    .A {
+        color: #ac1313;
+        font-size: 68px;
+        line-height: 68px;
+    }
+
+    .y {
+        border-style: solid;
+        border-width: 30px;
+        border-color: rgba(0, 0, 0, 0.05);
+    }
+
+    .fgfg {
+        right: auto;
+        left: auto;
+        height: 90px;
+        z-index: 1000;
+
+    }
+
+#t1 {
+    background-color: #ebb96a;
+    width: 240px;
+    height: 240px;
+}
+
+    #t2 {
+        background-color: #f05b10;
+        width: 240px;
+        height: 240px;
+    }
+
+    #t3 {
+        background-color: #a21010;
+        width: 240px;
+        height: 240px;
+    }
+@media screen and (max-width: 991px){
+    .tab-block {
+        width: 200px;
+        height: 200px;
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width:700px) {
+    .wq {
+      margin-top:180px;
+    }
+}
+@media screen and (max-width:400px) {
+    .wq {
+        margin-top: 250px;
+    }
+    .st {
+        width: 180px;
+        height: 300px;
+    }
+}
+.ui{
+    font-weight:600;
+}
+    .r {
+        color: #6c6c6c;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 24px;
+    }
+
+    #q {
+        line-height: 36px;
+        font-size: 30px;
+    }
+
+    .b {
+        line-height: 24px;
+        text-align: left;
+        font-size: 14px;
+    }
+
+.im {
+    background-image: linear-gradient( 90deg, #f8f6f4 30%, transparent),url('image/5e602586e7017bb2b3d99ab3_Untitled-14.jpg');
+    background-position: 0px 0px, 50% 67%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll;
+   
+}
+
+.img {
+    background-image: linear-gradient( 90deg, hsla(0, 0%, 100%, 0.89) 13%, hsla(0, 0%, 100%, 0) 57%),url('image/5bb966fd82df351adbb449c6_raul-cacho-oses-779595-unsplash-p-3200.jpeg');
+    background-position: 0px 0px, 50% 33%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll;
+    height: 470px;
+}
+
+.z {
+    background-color: #ebb96a;
+    width: 90px;
+    background-attachment: scroll;
+}
+
+.o {
+    background-color: hsla(0, 0%, 85.9%, 0.1);
+    background-attachment: scroll;
+}
+
+    .f {
+        font-size: 13px;
+        line-height: 23px;
+        font-weight: 600;
+    }
+
+    .w {
+        background-color: hsla(0, 0%, 85.9%, 0.1);
+        padding-top: 30px;
+        padding-bottom: 15px;
+    }
+
+    .yy {
+        color: #a1a1a1;
+        font-size: 10px;
+        font-weight: 500;
+        letter-spacing: 1px;
+    }
+
+    .m {
+        background-color: #f8f8f8;
+    }
+
+.hp {
+    height: 220px;
+    background-color: #f5f5f5;
+    width: 30%;
+  
+}
+
+    .pa {
+        padding-bottom: 120px;
+        padding-top: 120px;
+    }
+
+    .pe {
+        padding-top: 220px;
+        padding-bottom: 220px;
+    }
+
+    .pi {
+        width: 32px;
+        height: 32px;
+    }
+
+.imc {
+    background-image: linear-gradient( 90deg, #f8f6f4 31%, hsla(0, 0%, 100%, 0.55)), url('image/5e5fcbf402ca7c7cecfe7bf6_Untitled-3 (3).jpg');
+    background-position: 0px 0px, 50% 59%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+    background-attachment: scroll;
+     height:460px;
+}
+
+    .pp {
+        width: 300px;
+        height: 357px;
+        margin-top: -100px;
+        margin-left: 40px;
+        z-index: 1;
+    }
+
+    .pl {
+        width: 240px;
+        height: 489px;
+        margin-top: -130px;
+        margin-left: 170px;
+        z-index: 1;
+    }
+.ww {
+     background-color: #f8f8f8;  background-attachment: scroll;
+}
+.wt {
+    height: 200px;
+    background-image: url('image/5bb9649228dfc366d4954146_alisher-sharip-117976-unsplash-p-3200.jpeg');
+    background-position: 0px 51%;
+    background-size: cover;
+}
+.wj {
+    margin:-1px;
+}
+
+.q :hover {
+    background-color: #ac1313 !important;
+}
+
+.imghover {
+    transition: transform 1s;
+}
+
+    .imghover:hover {
+        transform: scale3d(1.1,1.1,1.1);
+        border-bottom: solid 1px #ac1313 !important
+    }
+
+.s {
+    transition: transform 1s;
+}
+
+    .s:hover {
+        transform: scale3d(1.1,1.1,1.1);
+        background-color: black !important;
+    }
+.hp {
+    font-size: 44px;
+    line-height: 48px;
+    font-weight: 600;
+}
+
+.we {
+    width:70px;
+}
